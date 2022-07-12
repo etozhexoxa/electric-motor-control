@@ -7,5 +7,6 @@ This program displays the following Delta C2000 parameters in real time:
 - electric motor's speed;
 - value of current.
 EMC also saves specified parameters into a MySQL database, using the appropriate queries.
+User can form a request to the database with date and / or time range.
 
 Technology stack: C#, WinForms, MySQL.
